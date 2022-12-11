@@ -1,2 +1,2 @@
 # SVM_linear
-SVM Linear
+SVM Linear - Script  guiado Flai
